@@ -1,16 +1,182 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**armanaanie/armanaanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Armana Akter Anie 👋
 
-Here are some ideas to get you started:
+### 💻 Front-End Developer | MERN Stack Developer | JavaScript Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I enjoy turning ideas into responsive, user-friendly web applications with modern technologies.
+Passionate about writing clean code, solving problems, and continuously learning new skills.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Developer;Always+Learning+Something+New+🚀" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+💙 Passionate about building modern web applications.
+
+🎯 Currently improving my skills in
+- Data Structures & Algorithms
+- Next.js
+- Backend Development
+- System Design
+
+💡 I enjoy solving real-world problems through code.
+
+🌱 Always learning something new.
+
+⚡ Fun Fact:
+> I believe every bug teaches something valuable.
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+</p>
+
+---
+
+# 🌟 Featured Project
+
+## ♻️ ReSell Hub
+
+A full-stack marketplace where users can buy and sell second-hand products.
+
+### Features
+
+- 🔐 JWT Authentication
+- 👥 Role-Based Dashboard
+- 💳 Stripe Payment Integration
+- ❤️ Wishlist System
+- 📦 Order Management
+- 📈 Seller Analytics
+- 🛡 Admin Dashboard
+- 🔍 Product Search & Filters
+- 📱 Fully Responsive Design
+
+### Tech Used
+
+- Next.js
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- JWT
+- Stripe
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=armanaanie&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanaanie&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=armanaanie&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=armanaanie&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/armana-akter/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:akterarmana96@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://portfolio-project-ebon-ten.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Currently Working On
+
+✨ Building scalable MERN Stack applications
+
+🚀 Learning advanced Next.js concepts
+
+📚 Practicing Data Structures & Algorithms
+
+⚡ Improving problem-solving skills
+
+---
+
+# 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+![](https://komarev.com/ghpvc/?username=armanaanie&color=blueviolet&style=for-the-badge)
+
+</div>
