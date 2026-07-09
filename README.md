@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/armanaanie/armanaanie/main/assets/github-banner.png](https://chatgpt.com/s/m_6a4f3dcd1a3881919104d494ff30236f)" width="100%" />
+</p>
 # Hi there, I'm Armana Akter Anie 👋
 
 ### 💻 Front-End Developer | MERN Stack Developer | JavaScript Enthusiast
@@ -91,17 +93,7 @@ A full-stack marketplace where users can buy and sell second-hand products.
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=armanaanie&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanaanie&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -123,15 +115,7 @@ A full-stack marketplace where users can buy and sell second-hand products.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=armanaanie&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 🌍 Connect With Me
 
