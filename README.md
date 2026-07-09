@@ -127,7 +127,7 @@ A full-stack marketplace where users can buy and sell second-hand products.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=armanaanie&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -177,6 +177,6 @@ A full-stack marketplace where users can buy and sell second-hand products.
 
 If you like my work, don't forget to ⭐ my repositories.
 
-![](https://github.com/armanaanie?tab=repositories)
+![](https://komarev.com/ghpvc/?username=armanaanie&color=blueviolet&style=for-the-badge)
 
 </div>
