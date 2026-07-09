@@ -177,6 +177,6 @@ A full-stack marketplace where users can buy and sell second-hand products.
 
 If you like my work, don't forget to ⭐ my repositories.
 
-![](https://komarev.com/ghpvc/?username=armanaanie&color=blueviolet&style=for-the-badge)
+![](https://github.com/armanaanie?tab=repositories)
 
 </div>
