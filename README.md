@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/armanaanie/armanaanie/main/assets/github-banner.png](https://chatgpt.com/s/m_6a4f3dcd1a3881919104d494ff30236f)" width="100%" />
+  <img src="https://chatgpt.com/s/m_6a4f3dcd1a3881919104d494ff30236f" width="100%" />
 </p>
 # Hi there, I'm Armana Akter Anie 👋
 
